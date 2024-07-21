@@ -1,3 +1,5 @@
+![Uploading Képernyőkép 2024-07-21 174359.png…]()
+
 This 3D portfolio presentation book is a dynamic and interactive showcase of creative works, meticulously crafted using JavaScript and CSS. The project leverages the powerful capabilities of modern web technologies to bring a visually engaging experience to the audience. By integrating 3D transformations and animations, the portfolio stands out as a unique and innovative way to present various projects.
 
 JavaScript plays a crucial role in managing interactivity within the portfolio. It allows for smooth transitions, dynamic content updates, and interactive elements that respond to user inputs. This creates an immersive experience, making the portfolio not just a static display but an engaging journey through the showcased works.
